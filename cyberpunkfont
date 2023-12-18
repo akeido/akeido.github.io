@@ -1,0 +1,4 @@
+@font-face{
+font-family:'Cyberpunk';
+src:url(/main/Cyberpunk.otf) format('opentype');
+}
